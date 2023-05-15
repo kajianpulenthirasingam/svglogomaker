@@ -15,7 +15,7 @@
   Node.js and npm are needed to install this application. You will also need inquirer and jest. Clone the repository, navigate to the command line, install the required dependencies for the project using npm by running npm init and then npm install --save jest inquirer.
   ## Usage
   Enter node index.js to use the application. Complete each of the prompts.
-  Your README file will be generated
+  Your svg file will be generated
   ![Demo](Capture.PNG)
   
   Here is a link to the video 
