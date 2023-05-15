@@ -19,7 +19,7 @@
   ![Demo](Capture.PNG)
   
   Here is a link to the video 
-  https://www.veed.io/view/b20e8093-7b36-49d4-807b-74424cf8979b?panel=share
+  https://www.veed.io/view/2f69fab6-f452-4df3-bb14-78e45c44d406?panel=share
 
   ## License
   ![License badge](https://img.shields.io/badge/license-MIT-green.svg)
@@ -29,7 +29,7 @@
   N/A
 
   ## Tests
-  N/A
+  ![Test](test.PNG)
 
   ## Questions
   If you have any questions or concerns about this project, please contact me at kajianpulenthirasingam@gmail.com.
